@@ -12,10 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "enabled": false
   },
   "utils": {
     "auto-auth": {
@@ -31,14 +28,14 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "subscribe to ethuvibe",
+        "NIVEDH THE BEST",
+        "subscribe to nivedhefx"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 10000,
     "max-reconnect-delay": 120000
   },
   "movement": {
@@ -65,7 +62,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
